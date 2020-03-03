@@ -18,4 +18,4 @@ It has been tested on mobile device and can be used in your project directly.
 ## Download
 
 You can download this asset from Unity Asset Store:
-[SwordMaster Pencil Sketch Shader Shader](https://assetstore.unity.com/packages/vfx/shaders/swordmaster-pencil-sketch-shader-134277)
+[SwordMaster Pencil Sketch Shader](https://assetstore.unity.com/packages/vfx/shaders/swordmaster-pencil-sketch-shader-134277)
