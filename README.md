@@ -7,7 +7,7 @@
 
 ## Features
 
-This toon shader is the vertex and fragment shader.
+This Pencil Sketch Shader is the vertex and fragment shader.
 
 ![image](https://github.com/swordmaster003/Pencil-Sketch-Shader/blob/master/Screenshots/1.png)
 
